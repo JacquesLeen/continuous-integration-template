@@ -7,3 +7,5 @@ def sum(a: int, b: int) -> int:
 
 
 print(sum(1, 1))
+
+print(sum(2,2))
